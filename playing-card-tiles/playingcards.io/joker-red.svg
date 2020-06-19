@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) and export_objects.py -->
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="0.75000003125in" height="0.75000003125in" viewBox="0 0 19.0500007937 19.0500007937" id="svg8" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="joker-002.svg"><sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.88357843" inkscape:cx="528" inkscape:cy="408" inkscape:document-units="in" inkscape:current-layer="layer3" showgrid="false" units="in" inkscape:snap-others="true" inkscape:snap-grids="true" inkscape:window-width="1920" inkscape:window-height="986" inkscape:window-x="-11" inkscape:window-y="-11" inkscape:window-maximized="1" inkscape:snap-midpoints="true" inkscape:object-nodes="true" inkscape:snap-text-baseline="true" inkscape:snap-smooth-nodes="false" showguides="false" inkscape:snap-object-midpoints="true" inkscape:snap-center="true" inkscape:snap-to-guides="false" inkscape:snap-nodes="true" inkscape:snap-intersection-paths="true">
+    <inkscape:grid type="xygrid" id="grid10" units="pt" spacingx="1.5875" spacingy="1.5875"/>
+    <sodipodi:guide position="380.20625,103.1875" orientation="0,1" id="guide9455" inkscape:locked="false"/>
+  </sodipodi:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode="layer" inkscape:label="joker-" transform="matrix(1.000000,0.000000,0.000000,1.000000,-60.325000,-47.624997)"><g id="g1727" inkscape:label="002">
+      <rect y="128.72499" x="60.325001" height="19.050001" width="19.050001" id="rect1635" style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.17638889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:47.14606857;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" transform="translate(0,-81.099993)"/>
+      <path inkscape:connector-curvature="0" id="path1643" d="m 68.273824,55.650968 1.576176,-4.85097 1.576177,4.85097 h 5.100609 l -4.12648,2.99806 1.576174,4.85097 -4.12648,-2.99806 -4.126479,2.99806 1.576174,-4.85097 -4.126478,-2.99806 z" style="display:inline;opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.1763889;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"/>
+    </g>
+  </g></svg>

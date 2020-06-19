@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) and export_objects.py -->
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="0.749999979167in" height="0.750000375in" viewBox="0 0 19.0499994708 19.050009525" id="svg8" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="number-050.svg"><sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="2.9639771" inkscape:cx="4625.005" inkscape:cy="493.27996" inkscape:document-units="in" inkscape:current-layer="layer3" showgrid="true" units="in" inkscape:snap-others="true" inkscape:snap-grids="true" inkscape:window-width="1280" inkscape:window-height="940" inkscape:window-x="1909" inkscape:window-y="43" inkscape:window-maximized="1" inkscape:snap-midpoints="true" inkscape:object-nodes="true" inkscape:snap-text-baseline="true" inkscape:snap-smooth-nodes="false" showguides="false" inkscape:snap-object-midpoints="true" inkscape:snap-center="true" inkscape:snap-to-guides="false" inkscape:snap-nodes="true" inkscape:snap-intersection-paths="true">
+    <inkscape:grid type="xygrid" id="grid10" units="pt" spacingx="3.1750001" spacingy="3.1750001"/>
+    <sodipodi:guide position="380.20625,103.1875" orientation="0,1" id="guide9455" inkscape:locked="false"/>
+  </sodipodi:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode="layer" inkscape:label="number-" transform="matrix(1.000000,0.000000,0.000000,1.000000,-82.550000,-69.849989)"><g id="g3611" transform="translate(-31.749997,250.825)" inkscape:label="050">
+      <path id="rect3242" d="m 114.3,-180.97501 h 19.05 V -161.925 H 114.3 Z" style="display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.1763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:47.14606857;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" inkscape:connector-curvature="0"/>
+      <path id="circle3244" d="m 131.76822,-171.45573 a 7.9432073,7.9432073 0 0 1 -7.94321,7.9432 7.9432073,7.9432073 0 0 1 -7.94321,-7.9432 7.9432073,7.9432073 0 0 1 7.94321,-7.94321 7.9432073,7.9432073 0 0 1 7.94321,7.94321 z" style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.1763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:47.14606857;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" inkscape:connector-curvature="0"/>
+      <g id="text3248" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9944458px;line-height:125%;font-family:Paddington;-inkscape-font-specification:'Paddington Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335" aria-label="0">
+        <path id="path3250" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.9944458px;font-family:Paddington;-inkscape-font-specification:Paddington;stroke:none;stroke-width:0.26458335" d="m 126.44118,-171.36746 q 0,1.41534 -0.55174,2.51883 -0.71967,1.42734 -2.08703,1.42734 -1.35538,0 -2.07504,-1.42734 -0.55175,-1.10349 -0.55175,-2.51883 0,-1.41535 0.55175,-2.51884 0.71966,-1.42734 2.07504,-1.42734 1.37936,0 2.08703,1.41535 0.55174,1.10349 0.55174,2.53083 z m -1.34337,0 q 0,-0.8756 -0.25189,-1.65524 -0.34784,-1.0795 -1.01953,-1.0795 -0.4198,0 -0.75565,0.57574 -0.27587,0.45579 -0.39581,1.0675 -0.10795,0.53975 -0.10795,1.0915 0,0.89958 0.23989,1.65523 0.33584,1.06751 1.01952,1.06751 0.69568,0 1.03153,-1.06751 0.23989,-0.75565 0.23989,-1.65523 z" inkscape:connector-curvature="0"/>
+      </g>
+    </g>
+  </g></svg>

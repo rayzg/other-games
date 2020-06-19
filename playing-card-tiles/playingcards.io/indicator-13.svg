@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) and export_objects.py -->
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="0.75000003125in" height="0.75000003125in" viewBox="0 0 19.0500007937 19.0500007937" id="svg8" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="indicator-006.svg"><sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.88357843" inkscape:cx="528" inkscape:cy="408" inkscape:document-units="in" inkscape:current-layer="layer3" showgrid="false" units="in" inkscape:snap-others="true" inkscape:snap-grids="true" inkscape:window-width="1920" inkscape:window-height="986" inkscape:window-x="-11" inkscape:window-y="-11" inkscape:window-maximized="1" inkscape:snap-midpoints="true" inkscape:object-nodes="true" inkscape:snap-text-baseline="true" inkscape:snap-smooth-nodes="false" showguides="false" inkscape:snap-object-midpoints="true" inkscape:snap-center="true" inkscape:snap-to-guides="false" inkscape:snap-nodes="true" inkscape:snap-intersection-paths="true">
+    <inkscape:grid type="xygrid" id="grid10" units="pt" spacingx="1.5875" spacingy="1.5875"/>
+    <sodipodi:guide position="380.20625,103.1875" orientation="0,1" id="guide9455" inkscape:locked="false"/>
+  </sodipodi:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode="layer" inkscape:label="indicator-" transform="matrix(1.000000,0.000000,0.000000,1.000000,-38.099997,-92.074992)"><g id="g1777" inkscape:label="006">
+      <rect style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.17638889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:47.14606857;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" id="rect1037" width="19.050001" height="19.050001" x="38.099998" y="173.17499" transform="translate(0,-81.099993)"/>
+      <g id="text1067" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:ultra-condensed;font-size:19.05000114px;line-height:125%;font-family:'Stint Ultra Condensed';-inkscape-font-specification:'Stint Ultra Condensed, Ultra-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#3771c8;fill-opacity:1;stroke:none;stroke-width:0.26458335" aria-label="K">
+        <path inkscape:connector-curvature="0" id="path1759" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:ultra-condensed;font-size:19.05000114px;font-family:'Stint Ultra Condensed';-inkscape-font-specification:'Stint Ultra Condensed, Ultra-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458335;fill:#3771c8" d="m 44.211251,95.16935 h 3.44165 v 1.041797 h -1.144116 v 4.362523 l 2.362647,-4.362523 H 48.1738 V 95.16935 h 2.837036 v 1.041797 h -0.958081 l -2.399854,4.446243 2.632398,6.24148 h 1.051099 v 1.0511 h -3.032373 v -1.0511 h 0.781347 l -2.158008,-5.2555 -0.418579,0.76275 v 4.49275 h 1.144116 v 1.0511 h -3.44165 v -1.0511 h 1.134814 V 96.211147 h -1.134814 z"/>
+      </g>
+    </g>
+    </g></svg>
