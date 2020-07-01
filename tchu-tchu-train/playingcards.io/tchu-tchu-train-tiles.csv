@@ -1,7 +1,7 @@
-label,image
-tile-blue,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-blue.svg
-tile-crossroad,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-crossroad.svg
-tile-green,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-green.svg
-tile-red,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-red.svg
-tile-station,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-station.svg
-tile-yellow,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-yellow.svg
+label,image,back
+tile-blue,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-blue.svg,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-blue.svg
+tile-crossroad,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-crossroad.svg,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-crossroad.svg
+tile-green,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-green.svg,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-green.svg
+tile-red,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-red.svg,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-red.svg
+tile-station,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-station.svg,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-station.svg
+tile-yellow,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-yellow.svg,https://raw.githubusercontent.com/rayzg/other-games/master/tchu-tchu-train/playingcards.io/tile-yellow.svg
