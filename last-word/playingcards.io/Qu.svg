@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) and export_objects.py -->
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="72.000003pt" height="72.000003pt" viewBox="0 0 25.4000010583 25.4000010583" id="svg3896" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="tile24.svg"><sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.73863636" inkscape:cx="545.6" inkscape:cy="390.4" inkscape:document-units="pt" inkscape:current-layer="layer2" showgrid="true" units="pt" inkscape:snap-text-baseline="true" inkscape:window-width="1280" inkscape:window-height="940" inkscape:window-x="1909" inkscape:window-y="43" inkscape:window-maximized="1" showguides="true" inkscape:guide-bbox="true">
+    <inkscape:grid type="xygrid" id="grid3898" units="pt" spacingx="1.5875" spacingy="1.5875"/>
+  </sodipodi:namedview>
+  <metadata id="metadata3893">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode="layer" inkscape:label="tile" transform="matrix(1.000000,0.000000,0.000000,1.000000,-12.699989,-157.300004)"><g id="g4429" inkscape:label="24">
+      <rect y="157.3" x="12.699989" height="25.400002" width="25.400002" id="rect4062" style="opacity:1;fill:none;fill-opacity:0.90562289;stroke:none;stroke-width:0.35277781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:47.14606857;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" transform="translate(0,1.2361757e-6)"/>
+      <g id="text4066" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333435px;line-height:100%;font-family:'News Gothic Std';-inkscape-font-specification:'News Gothic Std';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458335" transform="translate(0,1.2361757e-6)" aria-label="Qu">
+        <path id="path4254" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333435px;font-family:'News Gothic Std';-inkscape-font-specification:'News Gothic Std Bold';text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.26458335" d="M 24.492734,177.70467 H 22.5962 c -0.762,0 -1.016,-0.0677 -1.016,-1.25306 2.0828,-0.3048 4.470401,-2.3876 4.470401,-6.68867 0,-3.31893 -1.676401,-6.79027 -5.435601,-6.79027 -3.7592,0 -5.4356,3.47134 -5.4356,6.79027 0,4.30107 2.472267,6.38387 4.2672,6.68867 0,3.13266 1.253067,3.13266 2.794,3.13266 h 2.252134 z M 20.615,165.05547 c 2.269067,0 2.726267,3.01414 2.726267,4.70747 0,1.69333 -0.4572,4.70747 -2.726267,4.70747 -2.269067,0 -2.726267,-3.01414 -2.726267,-4.70747 0,-1.69333 0.4572,-4.70747 2.726267,-4.70747 z"/>
+        <path id="path4256" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.93333435px;font-family:'News Gothic Std';-inkscape-font-specification:'News Gothic Std Bold';text-align:center;text-anchor:middle;fill:#800000;stroke-width:0.26458335" d="m 32.887434,176.35001 h 2.506133 v -9.48267 h -2.506133 v 6.63787 c -0.474134,0.508 -1.049867,1.03293 -1.778,1.03293 -1.083734,0 -1.032934,-1.20227 -1.032934,-1.96427 v -5.70653 h -2.506133 v 6.72253 c 0,2.3368 1.456267,2.96334 2.4892,2.96334 1.049867,0 2.032,-0.52494 2.827867,-1.18534 z"/>
+      </g>
+    </g>
+    </g></svg>
