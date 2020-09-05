@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) and export_objects.py -->
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="72.000003pt" height="72.000003pt" viewBox="0 0 25.4000010583 25.4000010583" id="svg3896" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="tile11.svg"><sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.73863636" inkscape:cx="545.6" inkscape:cy="390.4" inkscape:document-units="pt" inkscape:current-layer="layer2" showgrid="true" units="pt" inkscape:snap-text-baseline="true" inkscape:window-width="1280" inkscape:window-height="940" inkscape:window-x="1909" inkscape:window-y="43" inkscape:window-maximized="1" showguides="true" inkscape:guide-bbox="true">
+    <inkscape:grid type="xygrid" id="grid3898" units="pt" spacingx="1.5875" spacingy="1.5875"/>
+  </sodipodi:namedview>
+  <metadata id="metadata3893">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode="layer" inkscape:label="tile" transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199995,-93.800012)"><g id="g4344" inkscape:label="11">
+      <rect style="opacity:1;fill:none;fill-opacity:0.90562289;stroke:none;stroke-width:0.35277781;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:47.14606857;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" id="rect3922" width="25.400002" height="25.400002" x="76.199997" y="93.800011" transform="translate(0,1.2361757e-6)"/>
+      <g id="text3926" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333435px;line-height:100%;font-family:'News Gothic Std';-inkscape-font-specification:'News Gothic Std';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335" transform="translate(0,1.2361757e-6)" aria-label="C">
+        <path id="path4295" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333435px;font-family:'News Gothic Std';-inkscape-font-specification:'News Gothic Std';text-align:center;text-anchor:middle;stroke-width:0.26458335" d="m 93.259541,103.36735 c -0.389466,-2.2352 -1.744133,-3.962396 -4.080933,-3.962396 -2.7432,0 -4.7752,2.523066 -4.7752,6.857996 0,4.33494 2.032,6.858 4.7752,6.858 2.370667,0 3.7592,-1.76106 4.131733,-3.92853 l -1.286933,-0.33867 c -0.321733,1.55787 -1.1176,3.13267 -2.8448,3.13267 -1.8288,0 -3.386667,-1.7272 -3.386667,-5.72347 0,-3.99626 1.557867,-5.72346 3.386667,-5.72346 1.811867,0 2.4892,1.60866 2.8448,3.13266 z"/>
+      </g>
+    </g>
+    </g></svg>
