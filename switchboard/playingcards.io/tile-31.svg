@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) and export_objects.py -->
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="108.0000075pt" height="108.0000675pt" viewBox="0 0 38.1000026458 38.1000238125" id="svg8" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="tile-31.svg"><sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.67119558" inkscape:cx="647.99999" inkscape:cy="776.95238" inkscape:document-units="pt" inkscape:current-layer="layer6" showgrid="false" units="pt" inkscape:snap-object-midpoints="true" inkscape:snap-grids="true" inkscape:snap-smooth-nodes="true" showguides="false" inkscape:guide-bbox="true" inkscape:snap-text-baseline="true" inkscape:window-width="1920" inkscape:window-height="1006" inkscape:window-x="1909" inkscape:window-y="-11" inkscape:window-maximized="1">
+    <inkscape:grid type="xygrid" id="grid815" units="pt" spacingx="1.5875" spacingy="1.5875"/>
+  </sodipodi:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode="layer" inkscape:label="tile-" transform="matrix(1.000000,0.000000,0.000000,1.000000,-25.400000,-266.700000)"><g id="g2100" inkscape:label="31">
+      <rect style="fill:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:44.95529938;paint-order:markers fill stroke" id="rect833" width="38.099998" height="38.099998" x="25.4" y="266.70001"/>
+      <circle style="fill:#808000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:44.95529938;paint-order:markers fill stroke" id="circle963" cx="44.450001" cy="273.04999" r="6.3499999"/>
+      <circle r="6.3499999" cy="285.75" cx="44.450001" id="circle965" style="fill:#808000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:44.95529938;paint-order:markers fill stroke"/>
+      <circle style="fill:#808000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:44.95529938;paint-order:markers fill stroke" id="circle969" cx="57.150002" cy="285.75" r="6.3499999"/>
+      <g id="text1292" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332" aria-label="6-1">
+        <path id="path1349" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:end;text-anchor:end;stroke-width:0.26458332" d="m 53.968797,298.53681 0.73794,0.36897 -0.796851,1.55029 q 0.57981,0 0.985987,0.41548 0.406176,0.41548 0.406176,1.0325 0,0.59531 -0.418579,1.01079 -0.415478,0.41238 -1.00459,0.41238 -0.617016,0 -1.029394,-0.42789 -0.409277,-0.43098 -0.409277,-0.98598 0,-0.21084 0.06201,-0.42478 0.06511,-0.21394 0.294556,-0.65733 z m -0.10852,2.74092 q -0.241846,0 -0.406177,0.17673 -0.164331,0.17363 -0.164331,0.43718 0,0.26355 0.170532,0.44339 0.173633,0.17983 0.403077,0.17983 0.241845,0 0.415478,-0.17673 0.173633,-0.17673 0.173633,-0.44649 0,-0.26355 -0.170532,-0.43718 -0.167432,-0.17673 -0.42168,-0.17673 z"/>
+        <path id="path1351" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:end;text-anchor:end;stroke-width:0.26458332" d="m 56.232225,301.1382 h 1.575098 v 0.78755 h -1.575098 z"/>
+        <path id="path1353" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:end;text-anchor:end;stroke-width:0.26458332" d="m 59.397923,298.65153 h 1.299146 v 4.56096 h -0.861963 v -3.7455 h -0.939478 z"/>
+      </g>
+    </g>
+    </g></svg>

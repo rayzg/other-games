@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) and export_objects.py -->
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="107.9999925pt" height="108.000045pt" viewBox="0 0 38.0999973542 38.100015875" id="svg8" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="tile-27.svg"><sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.67119558" inkscape:cx="647.99999" inkscape:cy="776.95238" inkscape:document-units="pt" inkscape:current-layer="layer6" showgrid="false" units="pt" inkscape:snap-object-midpoints="true" inkscape:snap-grids="true" inkscape:snap-smooth-nodes="true" showguides="false" inkscape:guide-bbox="true" inkscape:snap-text-baseline="true" inkscape:window-width="1920" inkscape:window-height="1006" inkscape:window-x="1909" inkscape:window-y="-11" inkscape:window-maximized="1">
+    <inkscape:grid type="xygrid" id="grid815" units="pt" spacingx="1.5875" spacingy="1.5875"/>
+  </sodipodi:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode="layer" inkscape:label="tile-" transform="matrix(1.000000,0.000000,0.000000,1.000000,-76.199997,-165.099992)"><g id="g1910" inkscape:label="27">
+      <rect y="165.09999" x="76.199997" height="38.099998" width="38.099998" id="rect841" style="fill:none;stroke-width:0;stroke-linecap:round;stroke-miterlimit:44.95529938;paint-order:markers fill stroke"/>
+      <circle style="fill:#800000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:44.95529938;paint-order:markers fill stroke" id="circle1083" cx="95.25" cy="171.45" r="6.3499999"/>
+      <circle style="fill:#800000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:44.95529938;paint-order:markers fill stroke" id="circle1085" cx="95.25" cy="184.15001" r="6.3499999"/>
+      <circle r="6.3499999" cy="196.85001" cx="95.25" id="circle1087" style="fill:#800000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:44.95529938;paint-order:markers fill stroke"/>
+      <g id="text1276" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;line-height:100%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;stroke-width:0.26458332" aria-label="4-2">
+        <path id="path1377" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:end;text-anchor:end;stroke-width:0.26458332" d="m 105.02925,196.93682 h 0.86816 v 2.93625 h 0.40618 v 0.80306 h -0.40618 v 0.93637 h -0.84956 v -0.93637 h -1.99057 v -0.80306 z m 0.0186,2.93625 v -1.52858 l -1.04179,1.52858 z"/>
+        <path id="path1379" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:end;text-anchor:end;stroke-width:0.26458332" d="m 107.03223,199.53821 h 1.5751 v 0.78755 h -1.5751 z"/>
+        <path id="path1381" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:end;text-anchor:end;stroke-width:0.26458332" d="m 110.25994,198.52122 h -0.84646 q 0.0341,-0.73794 0.46199,-1.15962 0.43098,-0.42478 1.1038,-0.42478 0.41548,0 0.73174,0.17673 0.31936,0.17364 0.5085,0.5054 0.19223,0.32866 0.19223,0.66972 0,0.40618 -0.23254,0.87437 -0.22944,0.46819 -0.84336,1.10691 l -0.5116,0.5395 h 1.62471 v 0.80305 h -3.1595 v -0.41548 l 1.41077,-1.43867 q 0.5116,-0.5178 0.67903,-0.83095 0.17053,-0.31626 0.17053,-0.57051 0,-0.26355 -0.17673,-0.43408 -0.17363,-0.17364 -0.44959,-0.17364 -0.27905,0 -0.46508,0.20774 -0.18604,0.20774 -0.19844,0.56431 z"/>
+      </g>
+    </g>
+    </g></svg>
