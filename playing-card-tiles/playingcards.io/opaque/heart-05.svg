@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) and export_objects.py -->
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="57.5999984pt" height="115.199968pt" viewBox="0 0 20.3199994356 40.6399887111" id="svg8" inkscape:version="1.2-dev (28587f2, 2021-04-23)" sodipodi:docname="heart-010.svg"><sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.82096346" inkscape:cx="954.09044" inkscape:cy="371.99993" inkscape:document-units="pt" inkscape:current-layer="layer3" showgrid="true" units="pt" inkscape:snap-others="false" inkscape:snap-grids="true" inkscape:window-width="2880" inkscape:window-height="1526" inkscape:window-x="2869" inkscape:window-y="-11" inkscape:window-maximized="1" inkscape:snap-midpoints="false" inkscape:object-nodes="true" inkscape:snap-text-baseline="true" inkscape:snap-smooth-nodes="false" inkscape:snap-bbox="false" inkscape:snap-bbox-edge-midpoints="false" inkscape:snap-nodes="true" inkscape:bbox-nodes="true" objecttolerance="10.0" gridtolerance="10.0" guidetolerance="10.0" inkscape:pagecheckerboard="0">
+    <inkscape:grid type="xygrid" id="grid10" units="pt" spacingx="0.79375002" spacingy="0.79375002"/>
+  </sodipodi:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode="layer" inkscape:label="heart-" transform="matrix(1.000000,0.000000,0.000000,1.000000,-274.320014,-206.586593)"><g id="g5680" inkscape:label="010">
+      <path id="rect8215" style="display:inline;opacity:1;fill:#ffffff;stroke-width:0.176389;stroke-miterlimit:47.1461;paint-order:markers fill stroke" d="m 257.17502,274.77493 h 19.05 v 38.09999 h -19.05 z" transform="translate(0,-81.099993)"/>
+      <path inkscape:export-ydpi="96" inkscape:export-xdpi="96" inkscape:export-filename="C:\mine\Vira\Vira table excerpts\heart-icon.png" inkscape:connector-curvature="0" id="path8481" d="m 266.70002,228.6 -5.63427,-9.75853 0.002,-7.2e-4 a 3.0192966,3.0192966 0 0 1 -0.40725,-1.50891 3.0192966,3.0192966 0 0 1 3.01927,-3.01929 3.0192966,3.0192966 0 0 1 3.0193,3.01929 3.0192966,3.0192966 0 0 1 3.0193,-3.01929 3.0192966,3.0192966 0 0 1 3.0193,3.01929 3.0192966,3.0192966 0 0 1 -0.40727,1.50891 l 0.002,7.2e-4 z" style="display:inline;opacity:1;fill:#fb4810;fill-opacity:1;stroke:none;stroke-width:0.0705555;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;paint-order:normal"/>
+      <g aria-label="5" id="text8261" style="font-size:21.1667px;line-height:125%;font-family:'Stint Ultra Condensed';-inkscape-font-specification:'Stint Ultra Condensed, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#fb4810;stroke-width:0.264583">
+        <path d="m 265.38743,202.51787 q 0.33073,-0.38241 0.69246,-0.50643 0.37207,-0.12402 0.77515,-0.12402 0.58911,0 1.0542,0.36173 0.47543,0.36174 0.79582,1.01286 0.33073,0.64079 0.50643,1.52963 0.1757,0.88883 0.1757,1.94303 0,0.97152 -0.15503,1.82935 -0.15503,0.8475 -0.48576,1.48829 -0.32039,0.63045 -0.83716,1.00252 -0.51676,0.36174 -1.2299,0.36174 -0.5271,0.0207 -1.02319,-0.23772 -0.48576,-0.25838 -0.8785,-0.81649 -0.38241,-0.56844 -0.62012,-1.46761 -0.22738,-0.89917 -0.22738,-2.16008 h 1.29191 q 0,1.80868 0.41342,2.69752 0.42374,0.8785 1.04386,0.8785 0.3514,0 0.60978,-0.25838 0.25839,-0.26872 0.43409,-0.74415 0.1757,-0.47542 0.25838,-1.12654 0.093,-0.66146 0.093,-1.44695 0,-1.81901 -0.36174,-2.78019 -0.36173,-0.96119 -1.15755,-0.96119 -0.46509,0 -0.80616,0.31006 -0.33073,0.29973 -0.50643,0.90951 h -1.0542 l 0.24805,-7.27605 h 4.48552 v 1.17822 h -3.35897 z" id="path954"/>
+      </g>
+    </g>
+    </g></svg>
