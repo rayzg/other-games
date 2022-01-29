@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- Created with Inkscape (http://www.inkscape.org/) and export_objects.py -->
-<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="50.8007805208mm" height="50.8mm" viewBox="0 0 50.8007805208 50.8" id="svg15145" sodipodi:docname="tile06.svg" inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><sodipodi:namedview id="namedview15147" pagecolor="#bdbdbd" bordercolor="#eeeeee" borderopacity="1" inkscape:pageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="0" inkscape:blackoutopacity="0.0" inkscape:document-units="mm" showgrid="true" inkscape:zoom="0.91041089" inkscape:cx="516.78376" inkscape:cy="566.87222" inkscape:window-width="2560" inkscape:window-height="1441" inkscape:window-x="4306" inkscape:window-y="-14" inkscape:window-maximized="1" inkscape:current-layer="layer1">
+<svg xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" width="50.8007805208mm" height="50.8mm" viewBox="0 0 50.8007805208 50.8" id="svg15145" sodipodi:docname="tile06.svg" inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><sodipodi:namedview id="namedview15147" pagecolor="#d6faff" bordercolor="#000000" borderopacity="1" inkscape:pageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="0" inkscape:blackoutopacity="0.0" inkscape:document-units="mm" showgrid="true" inkscape:zoom="0.83968933" inkscape:cx="401.86227" inkscape:cy="570.5197" inkscape:window-width="2560" inkscape:window-height="1441" inkscape:window-x="4306" inkscape:window-y="-14" inkscape:window-maximized="1" inkscape:current-layer="layer1" borderlayer="true">
     <inkscape:grid type="xygrid" id="grid16121" units="pt" spacingx="3.175" spacingy="3.175" empspacing="4"/>
   </sodipodi:namedview>
   <metadata id="metadata73">
@@ -8,6 +8,7 @@
       <cc:Work rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
       </cc:Work>
     </rdf:RDF>
   </metadata>
