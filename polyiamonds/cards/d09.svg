@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="0.23622069in"
+   height="0.51181096in"
+   viewBox="0 0 6.0000055 12.999998"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer15"
+     transform="translate(-86.000002,126)">
+    <path
+       id="rect1046"
+       style="display:inline;fill:#ffffff;stroke-width:0.176388"
+       d="m 86,-126 h 6.000001 v 13 H 86 Z" />
+  </g>
+  <g
+     id="layer3"
+     style="display:inline"
+     transform="translate(-86.000002,126)">
+    <path
+       d="m 88.729646,-119.75557 -0.503673,-0.35183 1.040677,-1.50732 q -0.218505,0.0296 -0.333313,0.0296 -0.699957,0 -1.174002,-0.47034 -0.474045,-0.47404 -0.474045,-1.16659 0,-0.67033 0.514784,-1.1703 0.518486,-0.49997 1.207333,-0.49997 0.68144,0 1.192519,0.51108 0.514784,0.50737 0.514784,1.18141 0,0.54441 -0.348127,1.05178 z m 1.318438,-3.39979 q 0,-0.43701 -0.307389,-0.7481 -0.307388,-0.3148 -0.733288,-0.3148 -0.451824,0 -0.755509,0.31109 -0.303685,0.30739 -0.303685,0.76662 0,0.4222 0.322202,0.72588 0.322203,0.29998 0.77773,0.29998 0.418493,0 0.707364,-0.29998 0.292575,-0.30368 0.292575,-0.74069 z"
+       id="text1100"
+       style="font-size:7.58472px;line-height:8.89744px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;stroke-width:0.176389"
+       aria-label="9" />
+  </g>
+  <g
+     id="layer9"
+     style="display:inline"
+     transform="translate(-86.000002,126)">
+    <path
+       style="font-size:4.5861px;line-height:5.37985px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;stroke-width:0.176389"
+       d="m 89.000001,-118.99999 q 0.704225,1.30281 1.888833,2.45724 -1.172033,1.17958 -1.888833,2.54276 -0.711771,-1.35061 -1.89638,-2.54276 1.187124,-1.1494 1.89638,-2.45724 z"
+       id="path1218" />
+  </g>
+</svg>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="0.23622069in"
+   height="0.51181096in"
+   viewBox="0 0 6.0000055 12.999998"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="heptiamonds-pieces-vector.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="5.1331977"
+     inkscape:cx="577.51526"
+     inkscape:cy="-497.54562"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-74.000001"
+       originy="116"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="164.71635,-252.57591"
+       orientation="1,0"
+       id="guide446"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="167.33324,-253.23891"
+       orientation="1,0"
+       id="guide447"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="214.71324,-236.58403"
+       orientation="1,0"
+       id="guide448"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="217.31774,-236.95948"
+       orientation="1,0"
+       id="guide449"
+       inkscape:locked="false" />
+    <inkscape:page
+       x="-9.3255956e-14"
+       y="0"
+       width="6.0000052"
+       height="12.999998"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Card back"
+     transform="translate(-74.000001,116)">
+    <path
+       id="rect1058"
+       style="display:inline;fill:#ffffff;stroke-width:0.176388"
+       d="m 74,-116 h 6.000001 v 13 H 74 Z"
+       inkscape:export-filename="cards\cards\s11.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text"
+     style="display:inline"
+     transform="translate(-74.000001,116)">
+    <path
+       d="m 77.133325,-114.71082 h 0.644405 v 3.45904 q 0,1.41103 -1.174002,1.41103 -0.407382,0 -0.803654,-0.2111 l 0.318499,-0.52589 q 0.311092,0.1074 0.507376,0.1074 0.507376,0 0.507376,-0.68144 z"
+       id="text1115"
+       style="font-size:7.58472px;line-height:8.89744px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.176389"
+       aria-label="J" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Spades"
+     style="display:inline"
+     transform="translate(-74.000001,116)">
+    <path
+       style="font-size:4.5861px;line-height:5.37985px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.176389"
+       d="m 77.000004,-108.99999 q 0.383598,0.4127 0.88889,1.01588 0.436507,0.52645 0.708995,0.91799 0.259259,0.39153 0.343916,0.62698 0.07937,0.21958 0.07937,0.49206 0,0.48678 -0.304233,0.76191 -0.238096,0.21958 -0.568784,0.21958 -0.301587,0 -0.502646,-0.13228 -0.156084,-0.10317 -0.314815,-0.33333 -0.06085,-0.0926 -0.111111,-0.0926 -0.05291,0 -0.05291,0.0979 0,0.30423 0.09788,0.6455 0.119048,0.4127 0.357143,0.78043 -0.325397,-0.0661 -0.621694,-0.0661 -0.296296,0 -0.624339,0.0661 0.238096,-0.36773 0.357144,-0.78043 0.09788,-0.34392 0.09788,-0.6455 0,-0.0979 -0.05291,-0.0979 -0.05027,0 -0.108467,0.0926 -0.18254,0.2619 -0.367725,0.36508 -0.18254,0.10052 -0.449736,0.10052 -0.383598,0 -0.634921,-0.28571 -0.238095,-0.26985 -0.238095,-0.69577 0,-0.30688 0.10582,-0.56085 0.0873,-0.21164 0.31746,-0.5582 0.23545,-0.34127 0.708995,-0.91799 0.502646,-0.59788 0.88889,-1.01587 z"
+       id="path1166" />
+  </g>
+</svg>

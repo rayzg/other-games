@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="0.23622069in"
+   height="0.51181096in"
+   viewBox="0 0 6.0000055 12.999998"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer15"
+     transform="translate(-122,126)">
+    <path
+       id="rect1052"
+       style="display:inline;fill:#ffffff;stroke-width:0.176388"
+       d="m 122,-126 h 6 v 13 h -6 z" />
+  </g>
+  <g
+     id="layer3"
+     style="display:inline"
+     transform="translate(-122,126)">
+    <path
+       d="m 124.18894,-123.65533 h -0.68885 q 0.0667,-0.59626 0.46664,-0.90735 0.40368,-0.3148 0.97401,-0.3148 0.65552,0 1.08512,0.37405 0.42961,0.37405 0.42961,0.93698 0,0.69996 -0.71107,1.07031 0.83328,0.4296 0.83328,1.18511 0,0.59256 -0.45553,1.02957 -0.45182,0.4333 -1.074,0.4333 -0.62589,0 -1.08512,-0.31109 -0.45553,-0.3148 -0.59997,-0.99253 h 0.70366 q 0.22962,0.73329 0.94069,0.73329 0.36294,0 0.63329,-0.24814 0.27036,-0.25183 0.27036,-0.58515 0,-0.34812 -0.24814,-0.63699 -0.24813,-0.29258 -0.81476,-0.30369 v -0.58515 q 0.4333,-0.007 0.67773,-0.2111 0.24814,-0.20739 0.24814,-0.52959 0,-0.32961 -0.22962,-0.55923 -0.22961,-0.22961 -0.55922,-0.22961 -0.3111,0 -0.49627,0.15554 -0.18517,0.15555 -0.29998,0.49627 z"
+       id="text1106"
+       style="font-size:7.58472px;line-height:8.89744px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;stroke-width:0.176389"
+       aria-label="3" />
+  </g>
+  <g
+     id="layer9"
+     style="display:inline"
+     transform="translate(-122,126)">
+    <path
+       style="font-size:4.5861px;line-height:5.37985px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;stroke-width:0.176389"
+       d="m 125,-118.99999 q 0.70423,1.30281 1.88883,2.45724 -1.17203,1.17958 -1.88883,2.54276 -0.71177,-1.35061 -1.89638,-2.54276 1.18712,-1.1494 1.89638,-2.45724 z"
+       id="path1224" />
+  </g>
+</svg>

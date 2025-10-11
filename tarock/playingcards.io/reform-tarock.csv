@@ -1,0 +1,56 @@
+label,suit-hearts,suit-spades,suit-diamonds,suit-clubs,rank-hearts,rank-spades,rank-diamonds,rank-clubs,trump-rank,score,image,item-count,item-key
+layout,♥ ,♠ ,♦ ,♣ ,10,10,10,10,23,5,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/fool.jpg,,
+fool,,,,,,,,,22,4,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/fool.jpg,1,type-da6653ee-992c-4701-9b20-b48d7c67d27d
+trump-21,,,,,,,,,21,4,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-21.jpg,1,type-84c8f689-e367-4df5-9cad-64e5b2e6259f
+trump-20,,,,,,,,,20,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-20.jpg,1,type-3bb7180f-f616-41a7-a1b5-446fa4ea3d4e
+trump-19,,,,,,,,,19,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-19.jpg,1,type-f0e46710-c3de-48b7-a2eb-175b11d3cf6d
+trump-18,,,,,,,,,18,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-18.jpg,1,type-73d8df0c-bacb-4897-bcff-54e558a1e69c
+trump-17,,,,,,,,,17,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-17.jpg,1,type-a05c0997-7501-453f-8acf-a0318208f782
+trump-16,,,,,,,,,16,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-16.jpg,1,type-c05240d9-0997-477d-8823-7a6e095a20a4
+trump-15,,,,,,,,,15,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-15.jpg,1,type-cc0f08de-9723-44f4-895d-4d9e819ac16f
+trump-14,,,,,,,,,14,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-14.jpg,1,type-caf30c03-0a05-4225-a714-0babaf68babb
+trump-13,,,,,,,,,13,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-13.jpg,1,type-b437c73d-7503-44ff-8af5-8337190a8cf1
+trump-12,,,,,,,,,12,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-12.jpg,1,type-14802441-87ec-43bc-a72d-9fbe09ca4a93
+trump-11,,,,,,,,,11,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-11.jpg,1,type-75b16705-6d7c-4565-8d69-7ec2895db9f3
+trump-10,,,,,,,,,10,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-10.jpg,1,type-039c3460-ecd2-4cd2-91da-94054ed394ce
+trump-09,,,,,,,,,9,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-09.jpg,1,type-d0d9dd95-4711-419c-a77c-8bddf61bf14d
+trump-08,,,,,,,,,8,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-08.jpg,1,type-a5cb670e-ac54-45cb-ab61-e65e40d64442
+trump-07,,,,,,,,,7,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-07.jpg,1,type-ea456583-b273-4b38-b878-c34e67a1a189
+trump-06,,,,,,,,,6,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-06.jpg,1,type-7bb0c8c4-516d-4cda-b26b-134c6fe1440b
+trump-05,,,,,,,,,5,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-05.jpg,1,type-29911cd1-0c29-464a-8a97-84067c69666a
+trump-04,,,,,,,,,4,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-04.jpg,1,type-899ca49a-6696-4398-bd93-6879c58fc063
+trump-03,,,,,,,,,3,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-03.jpg,1,type-4a0cef50-e93d-4daf-b774-9df3c3725740
+trump-02,,,,,,,,,2,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-02.jpg,1,type-99ab7d33-ca1f-4a6e-87bd-a634dbfacd6d
+trump-01,,,,,,,,,1,4,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/trump-01.jpg,1,type-073709a2-ae64-49a6-91cc-88316fb6397b
+heart-king,♥ ,,,,K,,,,,4,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/heart-king.jpg,1,type-83f28eb8-16e9-49e7-9f22-ecd80014c0a9
+heart-queen,♥ ,,,,Q,,,,,3,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/heart-queen.jpg,1,type-b16352cc-583f-433c-bcbd-ec20a8a535f8
+heart-knight,♥ ,,,,C,,,,,2,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/heart-knight.jpg,1,type-747a6d16-88f6-47f7-badc-a6dd329b7734
+heart-jack,♥ ,,,,J,,,,,1,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/heart-jack.jpg,1,type-031470d3-9429-4d55-bc79-637b0df2f667
+heart-01,♥ ,,,,1,,,,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/heart-01.jpg,1,type-4dca8e13-76e0-411a-b639-e2f43e39a86c
+heart-02,♥ ,,,,2,,,,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/heart-02.jpg,1,type-8d652694-cd35-40a2-9bc8-e4b7febffd66
+heart-03,♥ ,,,,3,,,,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/heart-03.jpg,1,type-6a0d499b-e5bd-4f0f-ae8f-9413178730fd
+heart-04,♥ ,,,,4,,,,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/heart-04.jpg,1,type-fc7fc91b-f939-4273-bc14-0734209cd1c7
+spade-king,,♠ ,,,,K,,,,4,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/spade-king.jpg,1,type-1c4ae916-02cf-48c0-8d4d-2a486c6e237a
+spade-queen,,♠ ,,,,Q,,,,3,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/spade-queen.jpg,1,type-9ea5e8e4-8912-48db-aeb9-6f31a3837cf2
+spade-knight,,♠ ,,,,C,,,,2,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/spade-knight.jpg,1,type-084a34bb-7cf7-4e18-b8ef-fa8fcae2a194
+spade-jack,,♠ ,,,,J,,,,1,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/spade-jack.jpg,1,type-d2b63d31-72f0-4d93-9838-a89a46d8c231
+spade-10,,♠ ,,,,10,,,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/spade-10.jpg,1,type-9f559c27-8232-4e0d-b444-11c1983c4ee2
+spade-09,,♠ ,,,,9,,,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/spade-09.jpg,1,type-9a8eed5f-24e8-4cf5-92ea-893fdc04cf48
+spade-08,,♠ ,,,,8,,,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/spade-08.jpg,1,type-a5ab66c9-8453-4075-b2b5-cbadfbd55a21
+spade-07,,♠ ,,,,7,,,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/spade-07.jpg,1,type-0da96b8e-d627-4806-9f33-968ec2b845ca
+diamond-king,,,♦ ,,,,K,,,4,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/diamond-king.jpg,1,type-10e63f82-ffcb-4253-bffa-027494e82a98
+diamond-queen,,,♦ ,,,,Q,,,3,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/diamond-queen.jpg,1,type-d3cf827e-60d4-4297-bdad-bd91d4575ef4
+diamond-knight,,,♦ ,,,,C,,,2,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/diamond-knight.jpg,1,type-5d451bd1-f3fd-42a8-a078-a6563d85742e
+diamond-jack,,,♦ ,,,,J,,,1,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/diamond-jack.jpg,1,type-95a9100e-c7dc-4936-b4d5-f0009f4e33e3
+diamond-01,,,♦ ,,,,1,,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/diamond-01.jpg,1,type-cbc8bd22-22c0-4e33-bcad-e8d4f623cffb
+diamond-02,,,♦ ,,,,2,,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/diamond-02.jpg,1,type-332fae9f-6d9b-44e6-b484-5b4315d9de7f
+diamond-03,,,♦ ,,,,3,,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/diamond-03.jpg,1,type-6468c252-6994-4748-8ddb-4def2a5ecd7f
+diamond-04,,,♦ ,,,,4,,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/diamond-04.jpg,1,type-b85506d2-9c5a-48b9-8551-0f4c2b3e6152
+club-king,,,,♣ ,,,,K,,4,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/club-king.jpg,1,type-720472ee-8fa6-4a35-b7e8-cdd92d5725a7
+club-queen,,,,♣ ,,,,Q,,3,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/club-queen.jpg,1,type-016e8ea2-630c-4f1a-a365-d2d429723201
+club-knight,,,,♣ ,,,,C,,2,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/club-knight.jpg,1,type-ccd0b5d5-0b0c-449d-9e72-b17772d2e304
+club-jack,,,,♣ ,,,,J,,1,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/club-jack.jpg,1,type-5eed9d25-3fa9-4916-a23b-0b729ed0e9e4
+club-10,,,,♣ ,,,,10,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/club-10.jpg,1,type-c8a246a1-ac95-4a4f-b321-583f4ac9b2aa
+club-09,,,,♣ ,,,,9,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/club-09.jpg,1,type-106c8b9b-047e-4042-aa6c-642b49bc4e9b
+club-08,,,,♣ ,,,,8,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/club-08.jpg,1,type-3ef13384-e4ec-405f-ba6e-4bdf71f3bcd2
+club-07,,,,♣ ,,,,7,,,https://raw.githubusercontent.com/rayzg/other-games/master/tarock/playingcards.io/club-07.jpg,1,type-34c48fba-d1f9-4728-a93e-e806ea436ff4

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="0.23622036in"
+   height="0.51181096in"
+   viewBox="0 0 5.9999971 12.999998"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer15"
+     transform="translate(-98.000001,126)">
+    <path
+       id="rect1048"
+       style="display:inline;fill:#ffffff;stroke-width:0.176388"
+       d="m 98,-126 h 6 v 13 h -6 z" />
+  </g>
+  <g
+     id="layer3"
+     style="display:inline"
+     transform="translate(-98.000001,126)">
+    <path
+       d="m 99.10382,-124.73304 h 3.89235 l -3.322015,4.95895 -0.492562,-0.3259 2.670207,-4.01087 h -2.74798 z"
+       id="text1102"
+       style="font-size:7.58472px;line-height:8.89744px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;stroke-width:0.176389"
+       aria-label="7" />
+  </g>
+  <g
+     id="layer9"
+     style="display:inline"
+     transform="translate(-98.000001,126)">
+    <path
+       style="font-size:4.5861px;line-height:5.37985px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;stroke-width:0.176389"
+       d="m 101,-118.99999 q 0.70423,1.30281 1.88883,2.45724 -1.17203,1.17958 -1.88883,2.54276 -0.71177,-1.35061 -1.89638,-2.54276 1.18712,-1.1494 1.89638,-2.45724 z"
+       id="path1220" />
+  </g>
+</svg>
