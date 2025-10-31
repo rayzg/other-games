@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.1496048in"
+   height="1.7047733in"
+   viewBox="0 0 79.999962 43.301242"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer17"
+     style="fill:#ffffff"
+     transform="translate(1029.9717,-160.65727)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.176389"
+       id="rect2"
+       width="79.999992"
+       height="43.301239"
+       x="-1029.9717"
+       y="160.65727" />
+  </g>
+  <g
+     id="layer2"
+     transform="translate(1060,-34.641013)">
+    <path
+       style="display:inline;fill:#999999;stroke:none;stroke-width:0.244412"
+       id="path9"
+       d="M 33,41 46.856406,65 19.143593,65 Z"
+       transform="matrix(0.36084391,0.62499999,0.62499999,-0.36084391,-1057.5329,50.461252)" />
+    <path
+       style="display:inline;fill:#999999;stroke:none;stroke-width:0.244412"
+       id="path12"
+       d="M 33,41 46.856406,65 19.143593,65 Z"
+       transform="matrix(-0.36084391,0.62499999,-0.62499999,-0.36084391,-982.46719,50.46125)" />
+    <path
+       style="display:inline;fill:#999999;stroke:none;stroke-width:0.244412"
+       id="path18"
+       d="M 33,41 46.856406,65 19.143593,65 Z"
+       transform="matrix(-0.36084391,0.62499999,-0.62499999,-0.36084391,-992.4672,67.781758)" />
+  </g>
+  <g
+     id="layer15"
+     transform="translate(1060,-34.641013)">
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:0.13338;stroke-linecap:butt"
+       id="path20"
+       d="m 183.98633,125.75586 6.24804,10.82422 h -12.49609 z"
+       transform="matrix(1.3195349,0,0,1.3195349,-1272.7763,-124.94305)" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:0.13338;stroke-linecap:butt"
+       id="path21"
+       d="m 183.98633,125.75586 6.24804,10.82422 h -12.49609 z"
+       transform="matrix(-1.3195349,0,0,1.3195349,-767.22376,-124.94307)" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:0.13338;stroke-linecap:butt"
+       id="path22"
+       d="m 183.98633,125.75586 6.24804,10.82422 h -12.49609 z"
+       transform="matrix(1.3195349,0,0,1.3195349,-1282.7763,-107.62255)" />
+  </g>
+  <g
+     id="layer10"
+     transform="translate(1060,-34.641013)">
+    <path
+       style="display:inline;fill:#cccccc;stroke:none;stroke-width:0.244412"
+       id="path23"
+       d="M 33,41 46.856406,65 19.143593,65 Z"
+       transform="matrix(0.36084394,-0.62500002,0.62500002,0.36084394,-1047.5329,44.801542)" />
+    <path
+       style="display:inline;fill:#cccccc;stroke:none;stroke-width:0.244412"
+       id="path24"
+       d="M 33,41 46.856406,65 19.143593,65 Z"
+       transform="matrix(-0.36084394,-0.62500002,-0.62500002,0.36084394,-972.46718,44.801542)" />
+    <path
+       style="display:inline;fill:#cccccc;stroke:none;stroke-width:0.244412"
+       id="path25"
+       d="M 33,41 46.856406,65 19.143593,65 Z"
+       transform="matrix(-0.36084394,-0.62500002,-0.62500002,0.36084394,-982.46719,62.122048)" />
+  </g>
+  <g
+     id="layer16"
+     style="display:inline"
+     transform="translate(1060,-34.641013)">
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:0.13338;stroke-linecap:butt"
+       id="path26"
+       d="m 183.98633,125.75586 6.24804,10.82422 h -12.49609 z"
+       transform="matrix(1.3195349,0,0,-1.3195349,-1242.7763,220.20583)" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:0.13338;stroke-linecap:butt"
+       id="path27"
+       d="m 183.98633,125.75586 6.24804,10.82422 h -12.49609 z"
+       transform="matrix(-1.3195349,0,0,-1.3195349,-787.22374,237.5263)" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:none;stroke-width:0.13338;stroke-linecap:butt"
+       id="path28"
+       d="m 183.98633,125.75586 6.24804,10.82422 h -12.49609 z"
+       transform="matrix(-1.3195349,0,0,-1.3195349,-777.22374,220.20581)" />
+  </g>
+</svg>
