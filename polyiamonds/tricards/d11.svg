@@ -7,41 +7,111 @@
    viewBox="0 0 19.999998 17.32052"
    version="1.1"
    id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="triangle tiles.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#aad1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.46342214"
+     inkscape:cx="496.30776"
+     inkscape:cy="-39.920406"
+     inkscape:window-width="1707"
+     inkscape:window-height="996"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer15"
+     showguides="false">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="5.4314178e-06"
+       originy="-362.67946"
+       spacingx="20"
+       spacingy="20"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="238.71636,230.4241"
+       orientation="1,0"
+       id="guide446"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="241.33325,229.7611"
+       orientation="1,0"
+       id="guide447"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="288.71325,246.41598"
+       orientation="1,0"
+       id="guide448"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="291.31775,246.04053"
+       orientation="1,0"
+       id="guide449"
+       inkscape:locked="false" />
+    <inkscape:page
+       x="3.9711833e-20"
+       y="-2.4233697e-12"
+       width="20"
+       height="17.320518"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
+     inkscape:groupmode="layer"
      id="layer15"
-     transform="translate(20.628221,-186.50772)">
+     inkscape:label="Card back"
+     style="display:inline"
+     transform="translate(5.4314174e-6,-362.67949)">
     <path
-       style="display:inline;fill:#dbdbe3;stroke:none;stroke-width:0.244412"
-       id="path1478"
-       d="M 33,41 46.856406,65 19.143593,65 Z"
-       transform="matrix(0.72168785,0,0,0.72168785,-34.443924,156.91851)" />
+       id="path43"
+       style="display:inline;fill:#dbdbe3;stroke-width:0.176389"
+       inkscape:transform-center-y="-2.8867509"
+       d="M 9.9999951,362.67949 19.999995,380 H -5.4314182e-6 Z" />
   </g>
   <g
+     inkscape:groupmode="layer"
      id="layer3"
+     inkscape:label="Text"
      style="display:inline"
-     transform="translate(20.628221,-186.50772)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.58472px;line-height:8.89744px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.176389"
-       x="-10.628226"
-       y="196.82822"
-       id="text173"><tspan
-         id="tspan173"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.58472px;line-height:8.89744px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';fill:#ff0000;fill-opacity:1;stroke-width:0.176389"
-         x="-10.628226"
-         y="196.82822">J</tspan></text>
+     transform="translate(5.4314174e-6,-362.67949)">
+    <path
+       d="m 10.133319,368.28917 h 0.644405 v 3.45905 q 0,1.41102 -1.1740023,1.41102 -0.4073825,0 -0.8036545,-0.21109 l 0.318499,-0.5259 q 0.3110921,0.1074 0.5073763,0.1074 0.5073765,0 0.5073765,-0.68144 z"
+       id="text165"
+       style="font-size:7.58472px;line-height:8.89744px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;stroke-width:0.176389"
+       aria-label="J" />
   </g>
   <g
+     inkscape:groupmode="layer"
      id="layer9"
+     inkscape:label="Diamonds"
      style="display:inline"
-     transform="translate(20.628221,-186.50772)">
+     transform="translate(5.4314174e-6,-362.67949)">
     <path
        style="font-size:4.5861px;line-height:5.37985px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;stroke-width:0.176389"
-       d="m -10.628229,197.82823 q 0.7042249,1.30281 1.8888329,2.45724 -1.172033,1.17958 -1.8888329,2.54276 -0.711771,-1.35061 -1.89638,-2.54276 1.187124,-1.1494 1.89638,-2.45724 z"
-       id="path37" />
+       d="m 9.9999911,374.00001 q 0.7042249,1.30281 1.8888329,2.45724 -1.172033,1.17958 -1.8888329,2.54276 -0.711771,-1.35061 -1.89638,-2.54276 1.187124,-1.1494 1.89638,-2.45724 z"
+       id="path329" />
   </g>
 </svg>

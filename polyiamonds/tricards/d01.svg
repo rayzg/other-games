@@ -37,8 +37,8 @@
     <inkscape:grid
        id="grid1"
        units="mm"
-       originx="-79.999991"
-       originy="-402.6795"
+       originx="-219.99998"
+       originy="-362.67946"
        spacingx="20"
        spacingy="20"
        empcolor="#0099e5"
@@ -49,28 +49,28 @@
        enabled="true"
        visible="true" />
     <sodipodi:guide
-       position="158.71636,270.42413"
+       position="18.716369,230.42409"
        orientation="1,0"
        id="guide446"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="161.33325,269.76113"
+       position="21.333259,229.76109"
        orientation="1,0"
        id="guide447"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="208.71325,286.41601"
+       position="68.713258,246.41597"
        orientation="1,0"
        id="guide448"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="211.31775,286.04056"
+       position="71.317758,246.04052"
        orientation="1,0"
        id="guide449"
        inkscape:locked="false" />
     <inkscape:page
        x="0"
-       y="-2.6906439e-12"
+       y="-2.4233697e-12"
        width="20.000008"
        height="17.320518"
        id="page2"
@@ -84,34 +84,35 @@
      id="layer15"
      inkscape:label="Card back"
      style="display:inline"
-     transform="translate(-79.99999,-402.67952)">
+     transform="translate(-219.99998,-362.67949)">
     <path
-       id="path47"
-       style="display:inline;fill:#dbdbe3;stroke-width:0.176389"
+       id="path344"
+       style="display:inline;fill:#dbdbe3;stroke-width:0.244412"
        inkscape:transform-center-y="-2.8867509"
-       d="m 89.999998,402.67949 10,17.32051 h -20 z" />
+       transform="matrix(0.72168785,0,0,0.72168785,206.1843,333.09029)"
+       d="M 33,41 46.856406,65 H 19.143593 Z" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Text"
      style="display:inline"
-     transform="translate(-79.99999,-402.67952)">
+     transform="translate(-219.99998,-362.67949)">
     <path
-       d="m 88.103819,408.26694 h 3.892354 l -3.322019,4.95896 -0.492562,-0.32591 2.670207,-4.01087 h -2.74798 z"
-       id="text195"
-       style="font-size:7.58472px;line-height:8.89744px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.176389"
-       aria-label="7" />
+       d="m 229.65372,368.28177 h 0.637 V 373 h -0.637 z"
+       id="text344"
+       style="font-size:7.58472px;line-height:8.89744px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;stroke-width:0.176389"
+       aria-label="I" />
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="Spades"
+     id="layer9"
+     inkscape:label="Diamonds"
      style="display:inline"
-     transform="translate(-79.99999,-402.67952)">
+     transform="translate(-219.99998,-362.67949)">
     <path
-       style="font-size:4.5861px;line-height:5.37985px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.176389"
-       d="m 89.999994,414 q 0.3836,0.4127 0.88889,1.01588 0.43651,0.52645 0.709,0.91799 0.25926,0.39153 0.34391,0.62698 0.0794,0.21958 0.0794,0.49206 0,0.48678 -0.30423,0.76191 -0.23809,0.21958 -0.56878,0.21958 -0.30159,0 -0.50265,-0.13228 -0.15608,-0.10317 -0.31481,-0.33333 -0.0609,-0.0926 -0.11111,-0.0926 -0.0529,0 -0.0529,0.0979 0,0.30423 0.0979,0.6455 0.11904,0.4127 0.35714,0.78043 -0.3254,-0.0661 -0.6217,-0.0661 -0.29629,0 -0.62433,0.0661 0.23809,-0.36773 0.35714,-0.78043 0.0979,-0.34392 0.0979,-0.6455 0,-0.0979 -0.0529,-0.0979 -0.0503,0 -0.10847,0.0926 -0.18254,0.2619 -0.36772,0.36508 -0.18254,0.10052 -0.44974,0.10052 -0.383596,0 -0.634919,-0.28571 -0.238095,-0.26985 -0.238095,-0.69577 0,-0.30688 0.10582,-0.56085 0.0873,-0.21164 0.31746,-0.5582 0.235454,-0.34127 0.708994,-0.91799 0.50265,-0.59788 0.88889,-1.01587 z"
-       id="path291" />
+       style="font-size:4.5861px;line-height:5.37985px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;stroke-width:0.176389"
+       d="m 230,374.00001 q 0.70423,1.30281 1.88883,2.45724 -1.17203,1.17958 -1.88883,2.54276 -0.71177,-1.35061 -1.89638,-2.54276 1.18712,-1.1494 1.89638,-2.45724 z"
+       id="path345" />
   </g>
 </svg>

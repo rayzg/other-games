@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="0.78740162in"
+   width="0.78740185in"
    height="0.68190891in"
-   viewBox="0 0 20.000001 17.320486"
+   viewBox="0 0 20.000007 17.320486"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
@@ -37,7 +37,7 @@
     <inkscape:grid
        id="grid1"
        units="mm"
-       originx="-20.000001"
+       originx="-219.99998"
        originy="-442.67952"
        spacingx="20"
        spacingy="20"
@@ -49,29 +49,29 @@
        enabled="true"
        visible="true" />
     <sodipodi:guide
-       position="218.71635,310.42409"
+       position="18.716369,310.42409"
        orientation="1,0"
        id="guide446"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="221.33324,309.76109"
+       position="21.333259,309.76109"
        orientation="1,0"
        id="guide447"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="268.71324,326.41597"
+       position="68.713259,326.41597"
        orientation="1,0"
        id="guide448"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="271.31774,326.04052"
+       position="71.317759,326.04052"
        orientation="1,0"
        id="guide449"
        inkscape:locked="false" />
     <inkscape:page
-       x="3.9555081e-16"
+       x="0"
        y="0"
-       width="20.000002"
+       width="20.000008"
        height="17.320486"
        id="page2"
        margin="0"
@@ -84,34 +84,35 @@
      id="layer15"
      inkscape:label="Card back"
      style="display:inline"
-     transform="translate(-20.000002,-442.67952)">
+     transform="translate(-219.99998,-442.67952)">
     <path
-       id="path88"
-       style="display:inline;fill:#dbdbe3;stroke-width:0.176389"
+       id="path348"
+       style="display:inline;fill:#dbdbe3;stroke-width:0.244412"
        inkscape:transform-center-y="-2.8867509"
-       d="m 30.000001,442.67949 10,17.32051 H 20 Z" />
+       transform="matrix(0.72168785,0,0,0.72168785,206.1843,413.09029)"
+       d="M 33,41 46.856406,65 H 19.143593 Z" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Text"
      style="display:inline"
-     transform="translate(-20.000002,-442.67952)">
+     transform="translate(-219.99998,-442.67952)">
     <path
-       d="m 27.561261,448.28176 h 0.636998 v 4.71823 h -0.636998 z m 3.29239,-0.15925 q 0.77773,0 1.262886,0.69996 0.488859,0.69625 0.488859,1.811 0,1.15548 -0.525894,1.84063 -0.52219,0.68514 -1.255478,0.68514 -0.762917,0 -1.270293,-0.69996 -0.503673,-0.70366 -0.503673,-1.78878 0,-1.20363 0.518487,-1.87396 0.52219,-0.67403 1.248072,-0.67403 z m 1.077712,2.50355 q 0,-0.79995 -0.314796,-1.31473 -0.314795,-0.51479 -0.792543,-0.51479 -0.492563,0 -0.803655,0.51108 -0.311092,0.50738 -0.311092,1.34066 0,0.82588 0.314796,1.32955 0.314795,0.49997 0.814764,0.49997 0.481452,0 0.785137,-0.51108 0.307389,-0.51478 0.307389,-1.34066 z"
-       id="text205"
+       d="m 229.65374,448.28177 h 0.637 V 453 h -0.637 z"
+       id="text348"
        style="font-size:7.58472px;line-height:8.89744px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;stroke-width:0.176389"
-       aria-label="I0" />
+       aria-label="I" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Hearts"
      style="display:inline"
-     transform="translate(-20.000002,-442.67952)">
+     transform="translate(-219.99998,-442.67952)">
     <path
        style="font-size:4.5861px;line-height:5.37985px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;stroke-width:0.176389"
-       d="m 29.999997,459 q -0.600933,-0.64469 -1.088097,-1.26021 -0.560093,-0.70012 -0.828473,-1.14061 -0.288797,-0.46674 -0.385063,-0.77013 -0.08752,-0.27713 -0.08752,-0.62135 0,-0.59218 0.411319,-0.93641 Q 28.34305,454 28.763119,454 q 0.408402,0 0.714703,0.21587 0.262544,0.18378 0.414236,0.50175 0.05251,0.13127 0.107929,0.13127 0.05543,0 0.107929,-0.13127 0.17503,-0.36465 0.490082,-0.55134 Q 30.880962,454 31.236854,454 q 0.490083,0 0.828472,0.35297 0.323804,0.33548 0.323804,0.85473 0,0.3909 -0.116684,0.70595 -0.09919,0.27421 -0.355893,0.68553 -0.262543,0.43174 -0.822636,1.14061 -0.525088,0.65052 -1.093933,1.26021 z"
-       id="path302" />
+       d="m 230.00001,458.99999 q -0.60093,-0.64469 -1.0881,-1.26021 -0.56009,-0.70012 -0.82847,-1.14061 -0.2888,-0.46674 -0.38506,-0.77013 -0.0875,-0.27713 -0.0875,-0.62135 0,-0.59218 0.41132,-0.93641 0.32088,-0.27129 0.74095,-0.27129 0.4084,0 0.71471,0.21587 0.26254,0.18378 0.41423,0.50175 0.0525,0.13127 0.10793,0.13127 0.0554,0 0.10793,-0.13127 0.17503,-0.36465 0.49008,-0.55134 0.28297,-0.16628 0.63886,-0.16628 0.49008,0 0.82847,0.35297 0.3238,0.33548 0.3238,0.85473 0,0.3909 -0.11668,0.70595 -0.0992,0.27421 -0.35589,0.68553 -0.26255,0.43174 -0.82264,1.14061 -0.52509,0.65052 -1.09393,1.26021 z"
+       id="path349" />
   </g>
 </svg>

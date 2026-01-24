@@ -3,45 +3,115 @@
 
 <svg
    width="0.78740162in"
-   height="0.68191022in"
-   viewBox="0 0 20.000001 17.32052"
+   height="0.68190891in"
+   viewBox="0 0 20.000001 17.320486"
    version="1.1"
    id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="triangle tiles.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#aad1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.46342214"
+     inkscape:cx="496.30776"
+     inkscape:cy="-39.920406"
+     inkscape:window-width="1707"
+     inkscape:window-height="996"
+     inkscape:window-x="-8"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer15"
+     showguides="false">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="2.4314181e-06"
+       originy="-442.67952"
+       spacingx="20"
+       spacingy="20"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="238.71635,310.42409"
+       orientation="1,0"
+       id="guide446"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="241.33324,309.76109"
+       orientation="1,0"
+       id="guide447"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="288.71324,326.41597"
+       orientation="1,0"
+       id="guide448"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="291.31774,326.04052"
+       orientation="1,0"
+       id="guide449"
+       inkscape:locked="false" />
+    <inkscape:page
+       x="-4.8087465e-23"
+       y="0"
+       width="20.000002"
+       height="17.320486"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
+     inkscape:groupmode="layer"
      id="layer15"
-     transform="translate(14.184602,-277.83996)">
+     inkscape:label="Card back"
+     style="display:inline"
+     transform="translate(2.431418e-6,-442.67952)">
     <path
-       style="display:inline;fill:#dbdbe3;stroke:none;stroke-width:0.244412"
-       id="path1506"
-       d="M 33,41 46.856406,65 19.143593,65 Z"
-       transform="matrix(0.72168785,0,0,0.72168785,-28.000301,248.25076)" />
+       id="path87"
+       style="display:inline;fill:#dbdbe3;stroke-width:0.176389"
+       inkscape:transform-center-y="-2.8867509"
+       d="M 9.9999981,442.67949 19.999998,460 H -2.4314182e-6 Z" />
   </g>
   <g
+     inkscape:groupmode="layer"
      id="layer3"
+     inkscape:label="Text"
      style="display:inline"
-     transform="translate(14.184602,-277.83996)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.58472px;line-height:8.89744px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.176389"
-       x="-4.1846042"
-       y="288.16046"
-       id="text225"><tspan
-         id="tspan225"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.58472px;line-height:8.89744px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';fill:#800000;fill-opacity:1;stroke-width:0.176389"
-         x="-4.1846042"
-         y="288.16046">J</tspan></text>
+     transform="translate(2.431418e-6,-442.67952)">
+    <path
+       d="m 10.133321,448.28917 h 0.644405 v 3.45905 q 0,1.41102 -1.1740021,1.41102 -0.4073824,0 -0.8036544,-0.2111 l 0.318499,-0.52589 q 0.311092,0.1074 0.5073763,0.1074 0.5073762,0 0.5073762,-0.68144 z"
+       id="text204"
+       style="font-size:7.58472px;line-height:8.89744px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;stroke-width:0.176389"
+       aria-label="J" />
   </g>
   <g
+     inkscape:groupmode="layer"
      id="layer7"
+     inkscape:label="Hearts"
      style="display:inline"
-     transform="translate(14.184602,-277.83996)">
+     transform="translate(2.431418e-6,-442.67952)">
     <path
        style="font-size:4.5861px;line-height:5.37985px;font-family:'Yu Gothic';-inkscape-font-specification:'Yu Gothic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;stroke-width:0.176389"
-       d="m -4.1846071,294.16047 q -0.600933,-0.64469 -1.088097,-1.26021 -0.560093,-0.70012 -0.828473,-1.14061 -0.288797,-0.46674 -0.385063,-0.77013 -0.08752,-0.27713 -0.08752,-0.62135 0,-0.59218 0.411319,-0.93641 0.320887,-0.27129 0.740956,-0.27129 0.408402,0 0.714703,0.21587 0.262544,0.18378 0.414236,0.50175 0.05251,0.13127 0.107929,0.13127 0.05543,0 0.107929,-0.13127 0.17503,-0.36465 0.490082,-0.55134 0.282964,-0.16628 0.638856,-0.16628 0.490083,0 0.828472,0.35297 0.323804,0.33548 0.323804,0.85473 0,0.3909 -0.116684,0.70595 -0.09919,0.27421 -0.355893,0.68553 -0.262543,0.43174 -0.822636,1.14061 -0.525088,0.65052 -1.093933,1.26021 z"
-       id="path33" />
+       d="M 9.999993,459 Q 9.39906,458.35531 8.911896,457.73979 8.351803,457.03967 8.083423,456.59918 7.794626,456.13244 7.69836,455.82905 7.61084,455.55192 7.61084,455.2077 q 0,-0.59218 0.411319,-0.93641 Q 8.343046,454 8.763115,454 q 0.408402,0 0.714703,0.21587 0.262544,0.18378 0.414236,0.50175 0.05251,0.13127 0.107929,0.13127 0.05543,0 0.107929,-0.13127 0.17503,-0.36465 0.490082,-0.55134 Q 10.880958,454 11.23685,454 q 0.490083,0 0.828472,0.35297 0.323804,0.33548 0.323804,0.85473 0,0.3909 -0.116684,0.70595 -0.09919,0.27421 -0.355893,0.68553 -0.262543,0.43174 -0.822636,1.14061 Q 10.568825,458.39031 9.99998,459 Z"
+       id="path301" />
   </g>
 </svg>
